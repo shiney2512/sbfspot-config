@@ -47,7 +47,7 @@ readonly defaultsfile="$tmppath/sbfspot.defaults"
 
 # No ending "/"
 readonly url_mylocation="https://github.com/shiney2512/SBFspot.git"
-readonly url_releases="https://github.com/sbfspot/sbfspot/releases"
+readonly url_releases="https://github.com/shiney2512/SBFspot.git"
 
 # some whiptail constants
 readonly wt_yes=0
