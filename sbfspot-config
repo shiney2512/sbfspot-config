@@ -46,7 +46,7 @@ readonly cfgpath="/usr/local/bin/sbfspot.3"
 readonly defaultsfile="$tmppath/sbfspot.defaults"
 
 # No ending "/"
-readonly url_mylocation="https://raw.githubusercontent.com/sbfspot/sbfspot-config/master"
+readonly url_mylocation="https://github.com/shiney2512/SBFspot.git"
 readonly url_releases="https://github.com/sbfspot/sbfspot/releases"
 
 # some whiptail constants
@@ -71,7 +71,7 @@ create_defaults()
 	# SBFspot.cfg Variables
 	BTAddress="00:00:00:00:00:00"
 	IP_Address="0.0.0.0"
-	Password="0000"
+	Password="Eeyore2512"
 	Plantname="MyPlant"
 	MIS_Enabled="0"
 	BTConnectRetries="10"
